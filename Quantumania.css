@@ -1,0 +1,171 @@
+body {
+    background-image: url(Background.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.header {
+    display: block;
+}
+
+.left-side-header {
+    width: 60%;
+    margin-top: .5%;
+    margin-left: 1%;
+    float: left;
+}
+
+.image-header {
+    width: 35%;
+}
+.image-header:hover {
+    cursor: pointer;
+}
+
+.right-side-header {
+    float: right;
+    margin-right: 50px;
+    margin-top: 2%;
+}
+.right-side-header:hover {
+    cursor: pointer;
+}
+
+.home-header-button {
+    font-size: 17px;
+    font-family: Outfit;
+    margin-right: 70px;
+    font-weight: 500;
+    color: white;
+    transition: color .3s;
+}
+.home-header-button:hover {
+    cursor: pointer;
+    color: rgb(140, 0, 255);
+}
+
+.about-header-button {
+    font-size: 17px;
+    font-family: Outfit;
+    margin-right: 70px;
+    font-weight: 500;
+    color: white;
+    transition: color .3s;
+}
+.about-header-button:hover {
+    cursor: pointer;
+    color: rgb(140, 0, 255);
+}
+
+.contactus-header-button {
+    font-size: 17px;
+    font-family: Outfit;
+    margin-right: 70px;
+    font-weight: 500;
+    color: white;
+    transition: color .3s;
+}
+.contactus-header-button:hover {
+    cursor: pointer;
+    color: rgb(140, 0, 255);
+}
+
+
+.title {
+    text-align: center;
+    
+}
+
+.title-name {
+    width: 80%;
+    margin-top: 10%;
+}
+
+.it-students {
+    height: 40px;
+    width: 320px;
+    font-size: 17px;
+    font-family: Outfit;
+    border-radius: 24px;
+    display: block;
+    margin: auto;
+    font-weight: 550;
+    border: none;
+    transition: all .3s;
+    
+}
+.it-students:hover {
+    background-color: rgb(140, 0, 255);
+    color: white;
+    border-color: white;
+    border: solid;
+    border-width: 2px;
+    cursor: pointer;
+}
+
+.gaming-laptops {
+    height: 40px;
+    width: 245px;
+    font-size: 17px;
+    font-family: Outfit;
+    border-radius: 24px;
+    display: block;
+    margin: auto;
+    margin-top: .5%;
+    font-weight: 550;
+    border: none;
+    transition: all .3s;
+}
+.gaming-laptops:hover {
+    background-color: rgb(140, 0, 255);
+    color: white;
+    border-color: white;
+    border: solid;
+    border-width: 2px;
+    cursor: pointer;
+}
+
+.content-creator {
+    height: 40px;
+    width: 370px;
+    font-size: 17px;
+    font-family: Outfit;
+    border-radius: 24px;
+    display: block;
+    margin: auto;
+    margin-top: .5%;
+    font-weight: 550;
+    border: none;
+    transition: all .3s;
+}
+.content-creator:hover {
+    background-color: rgb(140, 0, 255);
+    color: white;
+    border-color: white;
+    border: solid;
+    border-width: 2px;
+    cursor: pointer;
+}
+
+.space {
+    margin-top: 250px;
+    display: block;
+}
+.footer {
+
+}
+
+.copyright {
+    font-size: 15px;
+    color: white;
+    font-family: Outfit;
+}
+
+.violet-footer {
+    color: rgb(140, 0, 255);
+    font-weight: bolder;
+}
+
+.note {
+    color: white;
+}
