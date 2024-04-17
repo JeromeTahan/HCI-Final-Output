@@ -37,6 +37,7 @@ body {
     margin-right: 70px;
     font-weight: 500;
     color: white;
+    text-decoration: none;
     transition: color .3s;
 }
 .home-header-button:hover {
